@@ -1,4 +1,4 @@
-# Medical Conference
+# Web Scraping using Scrapy (Medical Conferences)
 This repository contains a web scraping project done as part of the ACEA Data Science Internship application process.
 
 The following website has details of medical conferences happening worldwide.
