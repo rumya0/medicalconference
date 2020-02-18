@@ -4,7 +4,7 @@ This repository contains a web scraping project done as part of the ACEA Data Sc
 The following website has details of medical conferences happening worldwide.
 https://www.omicsonline.org/medical-conferences.php
 
-The goal of the project was to compile details of the conferences into a .csv file. The following details of the conferences were scraped using Scrapy was used with CSS extractors:
+The goal of the project was to compile details of the conferences into a .csv file. The following details of the conferences were scraped using Scrapy with primarily CSS extractors:
 
 1. Title of the conference
 2. Date of the conference
