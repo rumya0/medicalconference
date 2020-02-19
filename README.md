@@ -14,5 +14,5 @@ Both .json and .csv files were created using the code. The .csv file is included
 
 # Why did I choose this project?
 I chose this project for two reasons:
-1. The first step to getting a good solution to a problem start with good data. Webscraping gives you the ability and freedom to obtain necessary data required for the problem at hand. Webscraping enables one to create a customized dataset from the vast ocean of information online and I wanted to learn the skills of obtaining good data from relevant sources.
+1. The first step to getting at a good solution to a problem starts with good data. Webscraping gives you the flexibility and freedom to obtain necessary data required for the problem at hand. Webscraping enables one to create a customized dataset from the vast ocean of information online and I wanted to learn the skills of obtaining good data from relevant sources.
 2. Scrapy is a flexible package for webscraping and I wanted to become better at it.
